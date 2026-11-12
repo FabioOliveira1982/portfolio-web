@@ -1,4 +1,4 @@
-name: Publicar portfólio no GitHub Pages
+name: Publicar portfólio no GitHub Pages # deploy automatico
 
 on:
   push:
